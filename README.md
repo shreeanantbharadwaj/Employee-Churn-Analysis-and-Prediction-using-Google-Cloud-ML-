@@ -3,9 +3,6 @@
 
 This repository holds an end-to-end project focused on predicting and analyzing employee churn using Google Cloud services. The goal is to help organizations proactively identify employees at risk of leaving and implement retention strategies more effectively.
 
-## Link to Interactive Dashboard:
-https://lookerstudio.google.com/reporting/7e391a5d-6cfd-41c9-8e7f-9346b96d77c7
-
 ## Project Agenda
 
 The project consists of the following key phases:
